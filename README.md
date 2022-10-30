@@ -3,5 +3,6 @@
  ---
 ## About
 An e-learning website educational provider that offers various learning disciplines.
-- User Registration through E-mail Verification
-- User Subscription through Payment
+-Features
+ - User Registration through E-mail Verification
+ - User Subscription through Payment
