@@ -7,3 +7,4 @@ An e-learning website educational provider that offers various learning discipli
 ## Features
   - User Registration through E-mail Verification
   - User Subscription through Payment
+  - Subscription Expiration
