@@ -1,3 +1,6 @@
 # Medase
-![alt text](https://github.com/jerwintuchi/medase/blob/main/images/logomedasee.png?raw=true)
+
+<p align="center">
+  <img src="_static/logomedasee.png" alt="Medase Logo"/>
+</p>
 An e-learning website educational provider.
